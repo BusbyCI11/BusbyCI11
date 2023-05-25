@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a recent MS Biostatistics graduate from CSU East Bay with a background in Cell and Molecular Biology.
+
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusbyCI11)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BusbyCI11/BusbyCI11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
